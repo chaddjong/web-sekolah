@@ -1,0 +1,83 @@
+.test{
+    background-color: rgb(236, 239, 230);
+    
+}
+.nav-link:hover{
+    opacity: 60%;
+    color: blue;
+}
+.nav-link:active{
+    opacity: 100%;
+}
+
+.bg-header{
+    background-image: url("/SMPN1kauditan.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* min-height: 100vh; */
+    /* background-color: red; */
+}
+
+.content-header{
+    padding-top: 230px;
+    padding-bottom: 230px;
+
+}
+
+/* .main{
+    padding-top: 50px;
+} */
+
+.login-bg{
+    background-image: url("/bg-login-kauditn.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    /* min-height: 100vh; */
+    /* font-family:fantasy; */
+}
+
+.bg-card-login{
+    background-color: rgba(95, 95, 87, 0.333);
+    padding: 50px;
+}
+
+.text-bg{
+    min-height: 40vh;
+}
+
+.bg-siswa{
+    background-color: rgb(240, 243, 193);
+}
+
+.card-siswa{
+    padding: 200px
+}
+
+.imageSiswa-wrap{
+    height: 260px;
+    margin-top: -50px;
+    /* margin-left: -100px;
+    margin-right: -100px; */
+    /* background-position: center;
+    background-size: contain; */
+}
+.h2-siswabaru{
+    margin-top: -180px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn-logout-siswa:hover{
+    opacity: 80%;
+}
+.btn-logout-siswa{
+    font-family: cursive;
+}
+.bg-about{
+    background-image: url("/asu.png");
+    background-size: cover;
+    background-position: center;
+    color: black;
+    height: 100vh;
+    width: 100%;
+    font-family:cursive;
+}

@@ -1,0 +1,23 @@
+.bg-login {
+  background-image: url("/bg.jpg");
+  min-height: 100vh;
+}
+
+.bg-input-login {
+  background-color: #ffff;
+  /* bg-opacity: 50; */
+}
+
+.bg-ter {
+  background-image: url("/bg-kauditan.JPG");
+  min-height: 100vh;
+}
+
+.bg-ppdb {
+  background-image: url("/asu.png");
+  min-height: 100vh;
+}
+
+.bg-guru {
+  background-color: #debace;
+}
