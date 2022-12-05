@@ -11,7 +11,7 @@
 }
 
 .bg-header{
-    background-image: url("/SMPN1kauditan.jpg");
+    background-image: url("./SMPN1kauditan.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* min-height: 100vh; */
@@ -29,7 +29,7 @@
 } */
 
 .login-bg{
-    background-image: url("/bg-login-kauditn.jpg");
+    background-image: url("./bg-login-kauditn.jpg");
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-position: center;
